@@ -1,5 +1,5 @@
 # Guest-Capacity-Tracker
-Function that allows you to keep track of capacity/capacity limits of a workplace
+JavaScript functions that allows you to keep track of capacity/capacity limits of a workplace
 
 // restaurant guest tracker 
 let restaurant = {
